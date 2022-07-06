@@ -119,3 +119,24 @@
 .cart h2{
     margin: 15px 0;
 }
+/* emergency-section */
+.emergenc-heading{
+    text-align: center;
+}
+.emergency-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px 80px;
+}
+.emergency-section img{
+    width: 100%;
+}
+.img-div{
+    width: 250%;
+}
+.emergency-detail{
+    margin: 30px;
+}
+.emergency-detail p{
+    margin: 25px 0;
+}
