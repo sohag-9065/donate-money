@@ -37,3 +37,47 @@
     font-weight: 700;
     cursor: pointer;
 }
+/* main section  */
+/* donate section  */
+#donate-section{
+    margin: 120px 100px;
+    text-align: center;
+
+}
+#donate-section h1{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+#donate-section p{
+    padding: 20px 20%;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(5, 5, 5,0.6);
+}
+.money-select{
+    margin: 20px;
+}
+.money-select button{
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    background-color: white;
+    text-decoration: none;
+    font-size: 26px;
+    color: rgb(48, 50, 53);
+    font-weight: 500;
+    margin-right: 40px;
+}
+.money-select .button-200{
+    background-color: rgb(243, 187, 187);
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.donete-input-field{
+    width: 600px;
+    text-align: center;
+    padding: 5px;
+    border-style:  none none solid none;
+    margin: 10px 0 35px;
+}
