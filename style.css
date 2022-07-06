@@ -166,3 +166,13 @@
     border-radius: 15px;
     border: none;
 }
+/* footer  */
+.footer-container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+.footer-container h2{
+    margin-bottom: 15px;
+}
